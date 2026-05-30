@@ -1,0 +1,6 @@
+{
+  "name": "Bcara",
+  "description": "Composed, secure legal AI intake and counselor dashboard for modern law firms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
